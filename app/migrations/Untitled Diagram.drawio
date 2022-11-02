@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T09:21:08.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.1" etag="RadFzvt-DeEAXXrh7Yh3" type="github"><diagram id="eusoIo-QhNuAcNZNQEOE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-02T06:16:33.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="POLJVIED6LLHguc1XHu8" version="20.5.1" type="github">
+  <diagram id="eusoIo-QhNuAcNZNQEOE" name="Page-1">
+    <mxGraphModel dx="2062" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FlgVHFCzMlBuylBulfkj-46" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="360" width="240" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-27" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=10;rotation=90;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="724.38" y="341.38" width="448.25" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-3" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.load_balancer;" vertex="1" parent="1">
+          <mxGeometry x="763.5" y="436" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-5" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="873.5" y="431" width="45" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-12" value="ADDA AD-CONNECT" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="793.5" y="434" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.528;entryY=1.144;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FlgVHFCzMlBuylBulfkj-5" target="FlgVHFCzMlBuylBulfkj-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="283.5" y="171" as="sourcePoint" />
+            <mxPoint x="283" y="141" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FlgVHFCzMlBuylBulfkj-18" target="FlgVHFCzMlBuylBulfkj-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="283.5" y="341" as="sourcePoint" />
+            <mxPoint x="283" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="623.5" y="414.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-20" value="&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="735" y="315" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-21" value="ADEK Integration Architecture" style="text;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="107" y="16" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FlgVHFCzMlBuylBulfkj-3" target="FlgVHFCzMlBuylBulfkj-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="333.5" y="381" as="sourcePoint" />
+            <mxPoint x="383.5" y="331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-24" value="ADNET FIREWALL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="866" y="401" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-25" value="F5 LOAD BALANCER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="753.5" y="401" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-26" value="API GATEWAY" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="384.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-30" value="ADDA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="915.5" y="164" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-31" value="ADGE&#39;S" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Large_Building.svg;glass=0;strokeWidth=1;fontSize=12;flipV=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="866" y="710" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-39" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1" source="FlgVHFCzMlBuylBulfkj-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1252.234" y="460.44799999999987" as="sourcePoint" />
+            <mxPoint x="896" y="710" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-41" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1105" y="436" width="45" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-42" value="FEDNET FIREWALL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1092.5" y="496" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-43" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.528;entryY=1.144;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="466.06976208749035" as="sourcePoint" />
+            <mxPoint x="1105.6800000000003" y="465.49999999999983" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-44" value="GSB/TDRA" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Long_Building.svg;glass=0;strokeWidth=1;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1210" y="421.5" width="86.12" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="466.0697620874903" as="sourcePoint" />
+            <mxPoint x="1210" y="466" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-47" value="FEDERAL&lt;br&gt;ENTITIES" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Large_Building.svg;glass=0;strokeWidth=1;fontSize=12;flipV=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1390" y="436" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FlgVHFCzMlBuylBulfkj-48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="470" as="sourcePoint" />
+            <mxPoint x="1390" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
